@@ -1,5 +1,6 @@
 # Weather App
 - A web application that displays weather using the [OpenWeather](https://home.openweathermap.org) API.
+- requires adding an api key in [index.js file](./index.js)
 - Site made using only HTML, CSS and JavaScript
 
 ## Features provided with screeshots
